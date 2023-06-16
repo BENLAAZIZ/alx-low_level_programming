@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - determines if a nbr is nig or pos or zero
-* return:always 0 (success)
+ * main - Determines if a number is positiv, negative or zero.
+* Return: Always 0 (Success)
  */
 int main(void)
 {
