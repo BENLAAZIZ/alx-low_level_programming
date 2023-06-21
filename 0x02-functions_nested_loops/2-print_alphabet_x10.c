@@ -7,7 +7,7 @@
 
 void print_alphabet_x10(void)
 {
-	vhar c;
+	char c;
 	int i = 0;
 
 	while (i <= 9)
