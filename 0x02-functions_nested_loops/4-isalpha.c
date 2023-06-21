@@ -1,6 +1,6 @@
 
 /**
- * _islower - Check for lowercase character
+ * _isalpha - Check for lowercase character
  * @c: the character to be checked
  * Return: 1 for alphabitic charachter or 0 for anything else
  */
