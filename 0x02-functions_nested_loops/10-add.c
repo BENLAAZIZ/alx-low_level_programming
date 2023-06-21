@@ -3,7 +3,7 @@
 /**
  * add - Adds two values
  * @n1: the first nbr to computed
- * @n2 the second nbr to be computed
+ * @n2: the second nbr to be computed
  * Return: Integer value
  */
 
