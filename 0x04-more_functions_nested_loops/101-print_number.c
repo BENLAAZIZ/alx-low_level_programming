@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_number - p
+ * print_number - prints an integer.
  * @n: the integer to prints.
- * Return: nothing
+ * Return: nothing!
  */
 
 void print_number(int n)
@@ -14,7 +14,7 @@ void print_number(int n)
 	{
 		n *= -1;
 		k = n;
-		_putchar('_');
+		_putchar('-');
 	}
 	k /= 10;
 	if (k != 0)
